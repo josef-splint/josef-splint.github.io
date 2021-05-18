@@ -10,10 +10,11 @@ div#main-content{
 
 h1{
 	font-weight:300;
-	font-size:80px;
+	font-size:60px;
 }
 
 div#side-menu h1{
+	font-size:80px;
 	writing-mode: vertical-rl;
 }
 
