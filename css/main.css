@@ -11,6 +11,9 @@ div#main-content{
 h1{
 	font-weight:300;
 	font-size:80px;
+}
+
+div#side-menu h1{
 	writing-mode: vertical-rl;
 }
 
