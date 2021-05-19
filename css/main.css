@@ -18,20 +18,20 @@ div#side-menu h1{
 	writing-mode: vertical-rl;
 }
 
-div.dialy-box h3{
+div.diary-box h3{
 	font-weight:700;
 }
 
-div.dialy .subtitle{
+div.diary .subtitle{
 	font-weight:700;
 	font-size:1.3em;
 }
 
-div.dialy-box.draft{
+div.diary-box.draft{
     display:none;
 }
 
-div.dialy{
+div.diary{
 	white-space: pre-wrap;
 	padding-left:20px;
 	font-weight:500;
