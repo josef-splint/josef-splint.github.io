@@ -27,6 +27,10 @@ div.dialy .subtitle{
 	font-size:1.3em;
 }
 
+div.dialy-box.draft{
+    display:none;
+}
+
 div.dialy{
 	white-space: pre-wrap;
 	padding-left:20px;
